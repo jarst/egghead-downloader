@@ -13,7 +13,7 @@
     "downloader"
   ],
   "engines" : {
-    "node" : ">=6.0.0"
+    "node" : ">=4.5.0"
   },
   "preferGlobal": true,
   "bin": {
